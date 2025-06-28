@@ -22,7 +22,7 @@ repository               : "mdh-rahman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/Blue_HS_Square.png"
   name             : "Md Hamidur Rahman"
   pronouns         : "he/him"  
   bio              : "Urban Planner | Transportation Researcher"
