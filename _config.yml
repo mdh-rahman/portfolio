@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : " "
+title                    : "Mr."
 title_separator          : "-"
 name                     : &name "Md Hamidur Rahman"
 description              : &description "PhD Student at The University of Texas at Austin"
@@ -23,8 +23,8 @@ repository               : "mdh-rahman.github.io"
 author:
   # Biographic information
   avatar           : "Blue_HS_Square.png"
-  name             : "Hamidur Rahman"
-  pronouns         : # example: "he/him"  
+  name             : "Md Hamidur Rahman"
+  pronouns         : "he/him"  
   bio              : "Urban Planner | Transportation Researcher"
   location         : "Austin, TX"
   employer         : "The University of Texas at Austin"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1315-0625"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : "https://www.researchgate.net/profile/Md-Hamidur-Rahman-4?ev=hdr_xprf"
   scopus           : #URL
 
