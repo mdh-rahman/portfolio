@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Md Hamidur Rahman"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Hamidur Rahman"
+  pronouns         : # example: "he/him"  
+  bio              : "Urban Planner | Transportation Researcher"
+  location         : "Austin, TX"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hamidur.rahman@utexas.edu" 
 
   # Academic websites
   academia         : # URL
