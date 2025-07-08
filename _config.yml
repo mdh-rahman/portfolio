@@ -5,8 +5,8 @@ title                    : ""
 title_separator          : "-"
 name                     : &name "Md Hamidur Rahman"
 description              : &description "PhD Student at The University of Texas at Austin"
-url                      : https://mdh-rahman.github.io/portfolio #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://mdh-rahman.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "mdh-rahman/portfolio" #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
