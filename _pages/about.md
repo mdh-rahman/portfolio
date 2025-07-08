@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Md Hamidur Rahman"
+title: "About Myself"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Myself
 
 I am a doctoral student in the [Community and Regional Planning Program](https://soa.utexas.edu/academics/graduate-programs/phd-community-and-regional-planning) at [The University of Texas at Austin](https://www.utexas.edu/). I received my M.Sc. degree in Earth Sciences (Geography concentration) from the [University of Memphis, Tennessee](https://www.memphis.edu/), and a B.URP degree in Urban and Regional Planning from the [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), Bangladesh.
 
