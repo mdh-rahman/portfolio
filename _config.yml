@@ -14,7 +14,7 @@ repository               : "mdh-rahman/portfolio" #"academicpages/academicpages.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/mdh-profile.jpg"
+  avatar           : "mdh-profile.jpg"
   name             : "Md Hamidur Rahman"
   pronouns         : "he/him"  
   bio              : "Urban Planner | Transportation Researcher"
